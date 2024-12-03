@@ -8,8 +8,6 @@ Key features include:
 
 **Cross-Browser Compatibility:** Ensures consistent performance across different browsers and devices.
 
-**Mobile Responsiveness:** Optimized for various screen sizes for seamless user experience.
-
 **Modular Code Structure:** Reusable CSS classes enhance styling consistency, maintainability, and scalability.
 
 This project is perfect for exploring web design principles and responsive UI development!
